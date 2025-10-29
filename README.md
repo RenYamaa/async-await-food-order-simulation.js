@@ -65,6 +65,11 @@ Here are a few things I might explore next:
 
 - 📦 Maybe connect it to an Express.js server later for fun!
 
+## *Update
+A few things i already added
+
+-  🔁 Run multiple cooking processes in parallel using Promise.all() ✅
+
 <hr>
 
 ### ✨ Author
