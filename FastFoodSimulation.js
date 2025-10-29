@@ -1,4 +1,4 @@
-function createFood(name, time){
+function fetchData(dataType, time){
     return new Promise((resolve, reject) => {
         setTimeout(() => {
             console.log(`${name} is Cooked in ${time/1000} Sec...`);
